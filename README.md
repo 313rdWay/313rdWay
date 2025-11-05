@@ -1,5 +1,5 @@
-<h1 align="center">What Up Doe 👋🏾, I'm Davaughn</h1>
-<h3 align="center">I have been teaching myself software development for the past year and a half, after attending in the Apple Developer Academy in my hometown of Detroit, Michigan. Check Me Out!</h3>
+<h1 align="center">What Up Doe 👋🏾 I'm Davaughn</h1>
+<h3 align="center">I have been teaching myself software development for the past year and a half, after attending the Apple Developer Academy in my hometown of Detroit, Michigan.</h3>
 
 - 🔭 I’m currently working on **WRKD, my professionl wrestling news aggregator app**
 
