@@ -1,5 +1,5 @@
-<h1 align="center">What Up Doe 👋🏾 I'm Davaughn</h1>
-<h3 align="center">I have been teaching myself software development for the past year and a half, after attending the Apple Developer Academy in my hometown of Detroit, Michigan.</h3>
+<h1 align="center">What Up Doe 👋🏾, I'm Davaughn</h1>
+<h3 align="center">I have been teaching myself software development for the past year and a half, after attending the Apple Developer Academy in my hometown of Detroit, Michigan. Check Me Out!</h3>
 
 - 🔭 I’m currently working on **WRKD, my professionl wrestling news aggregator app**
 
@@ -18,3 +18,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=313rdway&show_icons=true&locale=en" alt="313rdway" /></p>
