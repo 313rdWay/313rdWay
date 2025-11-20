@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **WRKD, my professionl wrestling news aggregator app**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift** as well as working on my own app WRKD.
 
 - 👨‍💻 All of my projects are available at [https://313rdway.github.io](https://313rdway.github.io)
 
